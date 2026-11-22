@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 480">
+  <title id="title">Чашка кофе</title>
+  <desc id="desc">Терракотовая чашка кофе на светлом фоне</desc>
+  <rect width="480" height="480" rx="240" fill="#ead7bd"/>
+  <path d="M180 104c-23 31 22 39-2 75M241 84c-23 31 22 39-2 75M302 104c-23 31 22 39-2 75" fill="none" stroke="#b75c42" stroke-linecap="round" stroke-width="11"/>
+  <ellipse cx="235" cy="264" rx="126" ry="29" fill="#8e3f2e"/>
+  <path d="M110 264h252v69c0 60-53 103-126 103s-126-43-126-103z" fill="#b75c42"/>
+  <path d="M362 285h29c42 0 50 70 1 82l-31 7" fill="none" stroke="#b75c42" stroke-linecap="round" stroke-width="25"/>
+  <ellipse cx="235" cy="262" rx="104" ry="20" fill="#50382f"/>
+  <ellipse cx="235" cy="259" rx="82" ry="13" fill="#765044"/>
+  <path d="M90 447h294" stroke="#c9a982" stroke-linecap="round" stroke-width="15"/>
+</svg>
